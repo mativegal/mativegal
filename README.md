@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matías Vega</h1>
 <h3 align="center">I'm a Full Stack Devolper actually studing at Henry.</h3>
 
-- 🔭 I’m currently working on **On the rocks (e-commerce)**
+- 🔭 I’m currently working on **"On the rocks" (e-commerce)**
 
 - 📫 How to reach me **matiasvegalera@gmail.com**
 
