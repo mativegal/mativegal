@@ -3,7 +3,7 @@
 
 - 💻 Currently working at **TOPTAL**
 
-- 🔭 My latest project was [On the rocks (e-commerce)](https://on-the-rocks.vercel.app/)
+- 🔭 My latest project was [On the rocks (e-commerce)](https://on-the-rocks-orcin.vercel.app/)
 
 - 📫 How to reach me **matiasvegalera@gmail.com**
 <br/><br/>
