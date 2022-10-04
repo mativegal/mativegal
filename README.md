@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Matías Vega</h1>
-<h3 align="center">Who I am? 👀 <br/><br/> 💥I'm a Full Stack Developer and a musician. I am passionate about creating applications, discovering new technologies and everything related to sound design. <br/><br/> My story? 📝 <br/><br/>💥All my life I have liked both art and technology and thanks to having studied Electronic Arts at UNTREF I discovered programming, which aroused enormous interest in this subject. Years later thanks to #Henry I managed to get on my way in this world, I began to know Javascript and the range of possibilities that it entailed, I learned technologies such as #React #Redux #HTML #CSS, #GIT, #Express and #PostgreSQL, and with that I managed develop my first apps.</h3><br/><br/>
+<h3 align="center">Who I am? 👀 <br/><br/> I'm a Full Stack Engineer and a musician based in Turin, Italy. I am passionate about creating applications, discovering new technologies, and everything related to sound design.  
+  
+I have always been interested in both art and technology, and thanks to my studies in Electronic Arts at UNTREF, I discovered programming, which aroused enormous interest in this subject. Years later I managed to get on my way in this world at Henry's Bootcamp, I began to learn Javascript and the range of possibilities that it entailed. I learned technologies such as React, Redux, HTML, CSS, GIT, Express, and PostgreSQL, and with that, I managed to develop my first apps.  
+
+  
+
+After graduating from Henry I started working at Toptal (USA) where I acquired experience in technologies such as Javascript, Typescript, React, NextJS, PostgreSQL, Knex, and testing. We used those techs to develop an internal app.
+
+  
+
+Additionally, I have completed more than 20 soft skills courses which have helped me develop my skills in this area.</h3><br/><br/>
 
 
 - 🔭 My latest project was [On the rocks (e-commerce)](https://on-the-rocks-orcin.vercel.app/)
