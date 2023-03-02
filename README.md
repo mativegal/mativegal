@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matías Vega</h1>
-<h3 align="center">Who I am? 👀 <br/><br/> I'm a Full Stack Engineer and a musician based in Turin, Italy. I am passionate about creating applications, discovering new technologies, and everything related to sound design.  
+<h3 align="center">Who I am? 👀 <br/><br/> I'm a Full Stack Engineer and a musician based in Buenos Aires, Argentina. I am passionate about creating applications, discovering new technologies, and everything related to sound design.  
   
 I have always been interested in both art and technology, and thanks to my studies in Electronic Arts at UNTREF, I discovered programming, which aroused enormous interest in this subject. Years later I managed to get on my way in this world at Henry's Bootcamp, I began to learn Javascript and the range of possibilities that it entailed. I learned technologies such as React, Redux, HTML, CSS, GIT, Express, and PostgreSQL, and with that, I managed to develop my first apps.  
 
