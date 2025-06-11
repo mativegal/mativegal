@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matías Vega</h1>
 
-- 📫 How to reach me **matiasvegalera@gmail.com**
+- 📫 How to reach me **matias@sira.agency**
 <br/><br/>
 
 <h3 align="left">Connect with me:</h3>
